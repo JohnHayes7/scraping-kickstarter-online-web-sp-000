@@ -17,5 +17,5 @@ create_project_hash
 
 #description: project.css("p.bbcard_blurb").text.strip
 
-#location: 
+#location: project.css(".location-name").text
 
