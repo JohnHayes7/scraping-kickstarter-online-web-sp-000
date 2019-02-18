@@ -19,3 +19,5 @@ create_project_hash
 
 #location: project.css(".location-name").text
 
+#percentage: 
+
